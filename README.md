@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhur1702&label=Profile%20views&color=0e75b6&style=flat" alt="madhur1702" /> </p>
 
-<h3 align="left">👨🏻‍💻 Work:</h3> <br>
+<h3 align="left">👨🏻‍💻 Work:</h3> 
 - 🔭 I’m currently Pursuing a BTech in Computer Engineering <br>
 - 🌱 I’m currently learning : C++, Web Development <br>
 - 💬 Ask me about : C, HTML, CSS <br>
@@ -17,16 +17,13 @@
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/madhur-bhandarkar-9bb342288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhur-bhandarkar-9bb342288" height="30" width="40" /></a>
-<br>
+<a href="https://www.linkedin.com/in/madhur-bhandarkar-9bb342288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhur-bhandarkar-9bb342288" height="30" width="40" /></a></p><br>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left"> 
-
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
 </p>
 
