@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Madhur Bhandarkar</h1>
 <h3 align="center">Computer Engineering Student</h3>
-<img align="right" width=300 alt="coading" src="./sample.png">
+<img align="right" width=300 alt="coading" src="./sample.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhur1702&label=Profile%20views&color=0e75b6&style=flat" alt="madhur1702" /> </p>
 
