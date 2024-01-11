@@ -6,9 +6,9 @@
 
 <h3 align="left">👨🏻‍💻 Work:</h3> <br>
 - 🔭 I’m currently Pursuing a BTech in Computer Engineering <br>
-- 🌱 I’m currently learning: C++, Web Development <br>
-- 💬 Ask me about: C, HTML, CSS <br>
-- 📫 How to reach me: <a href="bhandarkarmadhur02@gmail.com">bhandarkarmadhur02@gmail.com <br></a>
+- 🌱 I’m currently learning : C++, Web Development <br>
+- 💬 Ask me about : C, HTML, CSS <br>
+- 📫 How to reach me : <a href="bhandarkarmadhur02@gmail.com">bhandarkarmadhur02@gmail.com <br></a>
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
