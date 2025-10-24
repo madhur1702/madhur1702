@@ -34,8 +34,6 @@
 <h3 align="left">🛠 Languages and Tools:</h3>
 <details>
   <summary><b>🏆 Hacktoberfest 2025</b></summary>
-  
-  [![An image of @madhur1702's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/api/user/badge?user=madhur1702)](https://holopin.io/@madhur1702)
-  
+ <div class="relative w-auto h-full flex justify-start items-center rounded-md overflow-hidden shadow-lg shadow-neutral-950 border border-neutral-900" style="aspect-ratio: 1214 / 382;">flex
 </details>
    
