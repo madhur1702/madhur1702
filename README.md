@@ -30,3 +30,9 @@
 
 </p>
 
+
+<h3 align="left">🛠 Languages and Tools:</h3>
+# My Holopin Badges
+
+Check out my Hacktoberfest & other pins:  
+[![Madhur's Holopin Badges](https://holopin.io/api/user/badge?user=madhur1702)](https://holopin.io/@madhur1702)
