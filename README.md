@@ -34,6 +34,5 @@
 <details>
 <summary><b>🏆Hackertobest 2025</b></summary>
   
-  [![An image of @adez017's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adez017)](https://holopin.io/@adez017)
-  
+[![An image of @madhur1702's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhur1702)](https://holopin.io/@madhur1702)
 </details>
