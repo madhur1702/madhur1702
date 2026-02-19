@@ -3,7 +3,7 @@
 <img align="right" width=300 alt="coading" src="./sample.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhur1702&label=Profile%20views&color=0e75b6&style=flat" alt="madhur1702" /> </p>
-
+  
 <h3 align="left">👨🏻‍💻 Work:</h3> 
 - 🔭 I’m currently Pursuing a BTech in Computer Engineering <br>
 - 🌱 I’m currently learning : Machine Learning <br>
