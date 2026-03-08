@@ -30,44 +30,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 </p>
-<h2 align="center"><img src="./assets/trophy.gif" width="40px"><b>GitHub Trophies</b><img src="./assets/trophy.gif" width="40px"></h2><br>
-
-<div align=center style="display:flex;">
-  <table>
-    <tr>
-      <td>
-        <img height="150" width="130" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-      </td>
-      <td>
-        <img src="https://github-profile-trophy-fast.vercel.app/?username=jayeshbhandarkar&theme=monokai&no-frame=false&row=2&column=4&margin-w=14&margin-h=14" alt="GitHub Trophies">
-      </td>
-      <td>
-        <img height="150" width="130" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-    <img src="./assets/line.gif" width="1920">
-</p>
-
-<h2 align="center">
-    <b>
-        <img src="./assets/sparkles.gif" width="36px">
-        GitHub Stats
-        <img src="./assets/sparkles.gif" width="36px">
-    </b>
-</h2>
-<br>
-<p align=center>
-    <img alt="jayeshbhandarkar Github Stats" src="https://github-readme-stats-fast.vercel.app/api?username=jayeshbhandarkar&show_icons=true&count_private=true&theme=react&hide_border=true&rank_icon=github&bg_color=0D1117" />
-    <img alt="jayeshbhandarkar Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jayeshbhandarkar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=highcontrast&hide_border=true&background=0D1117" />
-    <img src="https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&combine_all_yearly_contributions=true" width=320 height=220 />
-</p>
-
 <h3 align="left">🏆 Hacktoberfest 2025 Badges:</h3> 
   
 [![An image of @madhur1702's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhur1702)](https://holopin.io/@madhur1702)
